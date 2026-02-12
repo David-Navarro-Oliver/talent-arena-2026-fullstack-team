@@ -28,5 +28,5 @@ experiments/
 ## 🚫 Qué NO va aquí
 
 - Notas del evento (eso va en docs/)
-- Imágenes (eso va en assets/)
+- Imágenes (eso va en activos/)
 - Ideas sin implementar
